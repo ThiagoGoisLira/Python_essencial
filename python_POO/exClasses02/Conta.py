@@ -1,5 +1,5 @@
 import datetime
-from classes.Extrato import Extrato
+from exClasses02.Extrato import Extrato
 
 
 class Conta:

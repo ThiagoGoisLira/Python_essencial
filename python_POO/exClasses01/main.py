@@ -1,4 +1,4 @@
-from classes02.conta import Conta
+from conta import Conta
 
 c1 = Conta(1, 1000)#Acesso a Class Conta e criar os objetors
 c2 = Conta(2, 200)
